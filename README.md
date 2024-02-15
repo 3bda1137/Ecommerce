@@ -35,12 +35,6 @@ Feel free to explore the codebase and make modifications according to your needs
 - **Frontend Framework:** None (Vanilla HTML, CSS, JavaScript)
 - **Styling:** Bootstrap
 
-
-### Folder Structure
-
-- `src/`: Contains the source code for the frontend application.
-- `public/`: Includes static assets and the `index.html` file.
-
 ## Deployment
 
 ### Local Deployment
