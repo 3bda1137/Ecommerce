@@ -32,7 +32,7 @@ Feel free to explore the codebase and make modifications according to your needs
 
 ### Technologies Used
 
-- **Frontend Framework:** None (Vanilla HTML, CSS, JavaScript)
+- **Frontend Framework:** None ( HTML, CSS, JavaScript)
 - **Styling:** Bootstrap
 
 ## Deployment
@@ -44,8 +44,7 @@ To run the frontend locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/e-commerce-frontend.git
-    cd e-commerce-frontend
+    git clone https://github.com/3bda1137/Ecommerce.git
     ```
 
 2. **Open `index.html`:**
