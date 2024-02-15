@@ -34,7 +34,7 @@ Feel free to explore the codebase and make modifications according to your needs
 
 - **Frontend Framework:** None (Vanilla HTML, CSS, JavaScript)
 - **Styling:** Bootstrap
-- **Additional Libraries:** (If applicable)
+
 
 ### Folder Structure
 
